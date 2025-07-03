@@ -1,4 +1,4 @@
-package TNSIF_OOPSCONCEPT;
+package com.tnsif.OopsConcept;
 
 abstract class Shape{
 	abstract void draw(); 

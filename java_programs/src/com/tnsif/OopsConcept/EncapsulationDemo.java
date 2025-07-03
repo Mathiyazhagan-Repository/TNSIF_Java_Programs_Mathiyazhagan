@@ -1,4 +1,4 @@
-package TNSIF_OOPSCONCEPT;
+package com.tnsif.OopsConcept;
 
 public class EncapsulationDemo {
 
