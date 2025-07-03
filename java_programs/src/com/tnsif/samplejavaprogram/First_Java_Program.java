@@ -1,4 +1,4 @@
-package sample_java_program;
+package com.tnsif.samplejavaprogram;
 
 public class First_Java_Program {
 	public static void main(String[] args) {
