@@ -1,5 +1,5 @@
 //Program to define Product class
-package com.tns.onlineshopping.entities;
+package entities.pgm;
 
 public class Product {
 	private int productId;

@@ -1,5 +1,5 @@
 //Program to define ProductQuantityPair class
-package com.tns.onlineshopping.entities;
+package entities.pgm;
 
 public class ProductQuantityPair {
 	private Product product;

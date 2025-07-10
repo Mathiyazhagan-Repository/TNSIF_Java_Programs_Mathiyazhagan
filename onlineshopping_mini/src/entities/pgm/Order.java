@@ -1,4 +1,4 @@
-package com.tns.onlineshopping.entities;
+package entities.pgm;
 
 import java.util.ArrayList;
 import java.util.List;

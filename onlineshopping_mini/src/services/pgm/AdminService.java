@@ -1,10 +1,10 @@
 //Program to define AdminService class 
-package com.tns.onlineshopping.services;
+package services.pgm;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import com.tns.onlineshopping.entities.Admin;
+import entities.pgm.Admin;
 
 public class AdminService {
 

@@ -1,12 +1,12 @@
 //Program to define Order Service - place the order, update the status, retrieve order by ID and List all orders
-package com.tns.onlineshopping.services;
+package services.pgm;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import com.tns.onlineshopping.entities.Order;
-import com.tns.onlineshopping.entities.Product;
-import com.tns.onlineshopping.entities.ProductQuantityPair;
+import entities.pgm.Order;
+import entities.pgm.Product;
+import entities.pgm.ProductQuantityPair;
 
 public class OrderService {
 	private List<Order> orderList = new ArrayList<>();

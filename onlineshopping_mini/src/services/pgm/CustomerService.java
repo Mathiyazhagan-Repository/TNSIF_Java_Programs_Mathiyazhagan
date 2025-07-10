@@ -1,10 +1,10 @@
 //Program to define CustomerService class 
-package com.tns.onlineshopping.services;
+package services.pgm;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import com.tns.onlineshopping.entities.Customer;
+import entities.pgm.Customer;
 
 public class CustomerService {
 	

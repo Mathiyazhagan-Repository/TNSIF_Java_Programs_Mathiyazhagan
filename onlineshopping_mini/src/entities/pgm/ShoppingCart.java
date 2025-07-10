@@ -1,5 +1,5 @@
 //Program to define ShoppingCart class
-package com.tns.onlineshopping.entities;
+package entities.pgm;
 
 import java.util.HashMap;
 import java.util.Map;

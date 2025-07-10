@@ -1,10 +1,10 @@
 //Program to define Product Service - add, remove, retrieve products
-package com.tns.onlineshopping.services;
+package services.pgm;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import com.tns.onlineshopping.entities.Product;
+import entities.pgm.Product;
 
 public class ProductService {
 

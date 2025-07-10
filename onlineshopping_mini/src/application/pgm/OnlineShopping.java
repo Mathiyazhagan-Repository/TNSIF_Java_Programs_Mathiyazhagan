@@ -1,17 +1,17 @@
 //Program to demonstrate Online Shopping Application 
-package com.tns.onlineshopping.application;
+package application.pgm;
 
 import java.util.Scanner;
 
-import com.tns.onlineshopping.entities.Admin;
-import com.tns.onlineshopping.entities.Customer;
-import com.tns.onlineshopping.entities.Order;
-import com.tns.onlineshopping.entities.Product;
-import com.tns.onlineshopping.entities.ProductQuantityPair;
-import com.tns.onlineshopping.services.AdminService;
-import com.tns.onlineshopping.services.CustomerService;
-import com.tns.onlineshopping.services.OrderService;
-import com.tns.onlineshopping.services.ProductService;
+import entities.pgm.Admin;
+import entities.pgm.Customer;
+import entities.pgm.Order;
+import entities.pgm.Product;
+import entities.pgm.ProductQuantityPair;
+import services.pgm.AdminService;
+import services.pgm.CustomerService;
+import services.pgm.OrderService;
+import services.pgm.ProductService;
 
 public class OnlineShopping {
 	private static ProductService productService = new ProductService();

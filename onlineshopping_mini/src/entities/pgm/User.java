@@ -1,5 +1,5 @@
 //Base class for Users
-package com.tns.onlineshopping.entities;
+package entities.pgm;
 public abstract class User {
 	private int userId;
 	private String username;
